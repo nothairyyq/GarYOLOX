@@ -1,0 +1,70 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "D:\\DTS311TC\\ncnn-android-yolox",
+      "sdkFolder": "D:\\Android\\SDK",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "D:\\DTS311TC\\ncnn-android-yolox\\app\\build\\intermediates",
+      "gradleModulePathName": ":app",
+      "moduleRootFolder": "D:\\DTS311TC\\ncnn-android-yolox\\app",
+      "makeFile": "D:\\DTS311TC\\ncnn-android-yolox\\app\\src\\main\\jni\\CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "D:\\DTS311TC\\ncnn-android-yolox\\.cxx",
+      "cxxFolder": "D:\\DTS311TC\\ncnn-android-yolox\\app\\.cxx",
+      "ndkFolder": "D:\\Android\\SDK\\ndk\\21.0.6113669",
+      "ndkVersion": "21.0.6113669",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [],
+    "variantName": "debug",
+    "soFolder": "D:\\DTS311TC\\ncnn-android-yolox\\app\\build\\intermediates\\cmake\\debug\\lib",
+    "objFolder": "D:\\DTS311TC\\ncnn-android-yolox\\app\\build\\intermediates\\cmake\\debug\\obj",
+    "jsonFolder": "D:\\DTS311TC\\ncnn-android-yolox\\app\\.cxx\\cmake\\debug",
+    "gradleBuildOutputFolder": "D:\\DTS311TC\\ncnn-android-yolox\\app\\.cxx\\cxx\\debug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "ARM64_V8A",
+  "abiPlatformVersion": 24,
+  "cxxBuildFolder": "D:\\DTS311TC\\ncnn-android-yolox\\app\\.cxx\\cmake\\debug\\arm64-v8a",
+  "jsonFile": "D:\\DTS311TC\\ncnn-android-yolox\\app\\.cxx\\cmake\\debug\\arm64-v8a\\android_gradle_build.json",
+  "gradleBuildOutputFolder": "D:\\DTS311TC\\ncnn-android-yolox\\app\\.cxx\\cxx\\debug\\arm64-v8a",
+  "objFolder": "D:\\DTS311TC\\ncnn-android-yolox\\app\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a",
+  "buildCommandFile": "D:\\DTS311TC\\ncnn-android-yolox\\app\\.cxx\\cmake\\debug\\arm64-v8a\\build_command.txt",
+  "buildOutputFile": "D:\\DTS311TC\\ncnn-android-yolox\\app\\.cxx\\cmake\\debug\\arm64-v8a\\build_output.txt",
+  "modelOutputFile": "D:\\DTS311TC\\ncnn-android-yolox\\app\\.cxx\\cmake\\debug\\arm64-v8a\\build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "D:\\DTS311TC\\ncnn-android-yolox\\app\\.cxx\\cxx\\debug\\arm64-v8a\\CMakeLists.txt",
+    "toolchainWrapperFile": "D:\\DTS311TC\\ncnn-android-yolox\\app\\.cxx\\cxx\\debug\\arm64-v8a\\android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "D:\\DTS311TC\\ncnn-android-yolox\\app\\.cxx\\cxx\\debug\\arm64-v8a\\build_generation_state.json",
+    "cacheKeyFile": "D:\\DTS311TC\\ncnn-android-yolox\\app\\.cxx\\cxx\\debug\\arm64-v8a\\compiler_cache_key.json",
+    "compilerCacheUseFile": "D:\\DTS311TC\\ncnn-android-yolox\\app\\.cxx\\cxx\\debug\\arm64-v8a\\compiler_cache_use.json",
+    "compilerCacheWriteFile": "D:\\DTS311TC\\ncnn-android-yolox\\app\\.cxx\\cxx\\debug\\arm64-v8a\\compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "D:\\DTS311TC\\ncnn-android-yolox\\app\\.cxx\\cxx\\debug\\arm64-v8a\\compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "D:\\DTS311TC\\ncnn-android-yolox\\app\\.cxx\\cmake\\debug\\arm64-v8a\\json_generation_record.json",
+  "compileCommandsJsonFile": "D:\\DTS311TC\\ncnn-android-yolox\\app\\.cxx\\cmake\\debug\\arm64-v8a\\compile_commands.json"
+}

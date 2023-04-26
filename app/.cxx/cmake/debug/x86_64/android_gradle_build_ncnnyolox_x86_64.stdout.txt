@@ -1,0 +1,10 @@
+ninja: Entering directory `D:\DTS311TC\ncnn-android-yolox\app\.cxx\cmake\debug\x86_64'
+[1/4] Building CXX object CMakeFiles/ncnnyolox.dir/ndkcamera.cpp.o
+[2/4] Building CXX object CMakeFiles/ncnnyolox.dir/yolox.cpp.o
+[3/4] Building CXX object CMakeFiles/ncnnyolox.dir/yoloxncnn.cpp.o
+D:/DTS311TC/ncnn-android-yolox/app/src/main/jni/yoloxncnn.cpp:331:76: warning: format specifies type 'int' but the argument has type 'std::__ndk1::vector<Object, std::__ndk1::allocator<Object> >::size_type' (aka 'unsigned long') [-Wformat]
+    __android_log_print(ANDROID_LOG_DEBUG, "NcnnYolox", "objects num: %d", objects.size());
+                                                                      ~~   ^~~~~~~~~~~~~~
+                                                                      %lu
+1 warning generated.
+[4/4] Linking CXX shared library D:\DTS311TC\ncnn-android-yolox\app\build\intermediates\cmake\debug\obj\x86_64\libncnnyolox.so

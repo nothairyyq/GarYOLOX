@@ -1,0 +1,5 @@
+# ninja log v5
+54	993	702405998	CMakeFiles/ncnnyolox.dir/ndkcamera.cpp.o	c8194e179740ada5
+1	1420	702405998	CMakeFiles/ncnnyolox.dir/yolox.cpp.o	f1de4b49e5d317a6
+28	1501	702405998	CMakeFiles/ncnnyolox.dir/yoloxncnn.cpp.o	5a14adccbfb1b096
+1502	2645	702405999	D:/DTS311TC/ncnn-android-yolox/app/build/intermediates/cmake/debug/obj/x86_64/libncnnyolox.so	c7a74b6a36897e3d
