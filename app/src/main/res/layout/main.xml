@@ -9,26 +9,24 @@
         android:layout_width="fill_parent"
         android:layout_height="wrap_content">
 
-    <Button
-        android:id="@+id/buttonSwitchCamera"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="切换摄像头"
-        android:textSize="15sp"
-        android:textColor="#FFFFFF"
-        android:background="#ff4c41"
-        />
+        <Button
+            android:id="@+id/buttonSwitchCamera"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#ff4c41"
+            android:text="Change Camera"
+            android:textColor="#FFFFFF"
+            android:textSize="15sp" />
 
-    <Button
-        android:id="@+id/buttonImage"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="选择图片"
-        android:textSize="15sp"
-        android:textColor="#FFFFFF"
-        android:background="#1A73E8"
-        android:layout_marginLeft="15dp"
-        />
+        <Button
+            android:id="@+id/buttonImage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            android:background="#1A73E8"
+            android:text="Image Selection"
+            android:textColor="#FFFFFF"
+            android:textSize="15sp" />
 
     </LinearLayout>
 

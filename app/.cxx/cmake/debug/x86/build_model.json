@@ -5,6 +5,7 @@
       "sdkFolder": "D:\\Android\\SDK",
       "isNativeCompilerSettingsCacheEnabled": false,
       "isBuildOnlyTargetAbiEnabled": true,
+      "ideBuildTargetAbi": "x86",
       "splitsAbiFilterSet": [],
       "intermediatesFolder": "D:\\DTS311TC\\ncnn-android-yolox\\app\\build\\intermediates",
       "gradleModulePathName": ":app",
@@ -39,10 +40,7 @@
     "gradleBuildOutputFolder": "D:\\DTS311TC\\ncnn-android-yolox\\app\\.cxx\\cxx\\debug",
     "isDebuggableEnabled": true,
     "validAbiList": [
-      "ARMEABI_V7A",
-      "ARM64_V8A",
-      "X86",
-      "X86_64"
+      "X86"
     ],
     "buildTargetSet": []
   },

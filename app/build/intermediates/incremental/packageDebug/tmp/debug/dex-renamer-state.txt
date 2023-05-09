@@ -1,4 +1,4 @@
-#Wed Apr 05 21:57:53 CST 2023
+#Tue Apr 25 21:15:05 CST 2023
 base.1=D\:\\DTS311TC\\ncnn-android-yolox\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
 path.1=classes.dex
 base.0=D\:\\DTS311TC\\ncnn-android-yolox\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
